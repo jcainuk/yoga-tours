@@ -166,6 +166,12 @@ Hero
   align-items: center;
 }
 
+.hero-banner {
+  text-align: center;
+  color: var(--clr-white);
+  padding: 0 3rem;
+}
+
 /*
 =============== 
 About
