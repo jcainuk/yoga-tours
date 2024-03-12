@@ -246,6 +246,10 @@ About
 /* section add to globals */
 /* title add to globals */
 /* section center add to globals */
+.about-img,
+.about-info {
+  margin-bottom: 2rem;
+}
 
 /*
 =============== 
