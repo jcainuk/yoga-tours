@@ -157,6 +157,10 @@ p {
   margin-bottom: 4rem;
 }
 
+.section-title h2 {
+  text-transform: uppercase;
+}
+
 /*
 =============== 
 Navbar
