@@ -148,6 +148,10 @@ p {
   background: var(--clr-primary-8);
 }
 
+.section {
+  padding: 5rem 0;
+}
+
 /*
 =============== 
 Navbar
