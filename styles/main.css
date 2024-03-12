@@ -176,6 +176,14 @@ Hero
   text-transform: uppercase;
 }
 
+.hero-banner p {
+  max-width: 35rem;
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--clr-white);
+  letter-spacing: var(--spacing);
+}
+
 /*
 =============== 
 About
