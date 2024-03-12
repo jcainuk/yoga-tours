@@ -161,6 +161,10 @@ p {
   text-transform: uppercase;
 }
 
+.section-title span {
+  color: var(--clr-primary-5);
+}
+
 /*
 =============== 
 Navbar
