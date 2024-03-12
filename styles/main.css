@@ -184,6 +184,13 @@ Hero
   letter-spacing: var(--spacing);
 }
 
+.hero-btn {
+  padding: 0.9rem 1.6rem;
+  font-size: 1.25rem;
+  background-color: var(--clr-white);
+  color: var(--clr-grey-5);
+}
+
 /*
 =============== 
 About
