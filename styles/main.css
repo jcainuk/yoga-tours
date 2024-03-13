@@ -459,6 +459,10 @@ Contact
   text-transform: capitalize;
   border: transparent;
 }
+
+.form-control::placeholder {
+  color: inherit;
+}
 /*
 =============== 
 Gallery
