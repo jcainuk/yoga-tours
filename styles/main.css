@@ -366,6 +366,15 @@ Featured Tours
   transform: scale(1.02);
 }
 
+.tour-img-container {
+  position: relative;
+}
+
+.tour-img {
+  height: 15rem;
+  object-fit: cover;
+}
+
 /*
 =============== 
 Contact
