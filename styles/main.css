@@ -438,6 +438,11 @@ Contact
 .contact-title p {
   color: var(--clr-primary-8);
 }
+
+.contact-form {
+  display: flex;
+  max-width: 28rem;
+}
 /*
 =============== 
 Gallery
