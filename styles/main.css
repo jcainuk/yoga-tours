@@ -497,6 +497,22 @@ Gallery
 ===============
 */
 
+.gallery-img-container {
+  position: relative;
+  background: var(--clr-primary-5);
+}
+.gallery-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 2rem;
+  transform: translate(-50%, -50%);
+  color: var(--clr-white);
+  opacity: 0;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
 /*
 =============== 
 Footer
