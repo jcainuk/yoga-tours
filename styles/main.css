@@ -512,6 +512,11 @@ Gallery
   cursor: pointer;
   transition: var(--transition);
 }
+.gallery-img {
+  height: 17rem;
+  object-fit: cover;
+  transition: var(--transition);
+}
 
 /*
 =============== 
