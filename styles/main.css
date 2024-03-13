@@ -290,6 +290,10 @@ Services
 ===============
 */
 
+.services {
+  background: var(--clr-grey-10);
+}
+
 /*
 =============== 
 Featured Tours
