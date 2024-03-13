@@ -418,6 +418,12 @@ Featured Tours
   }
 }
 
+@media screen and (min-width: 1170px) {
+  .tour-card {
+    flex: 0 0 calc(33.333% - 2rem);
+  }
+}
+
 /*
 =============== 
 Contact
