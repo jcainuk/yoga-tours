@@ -429,7 +429,15 @@ Featured Tours
 Contact
 ===============
 */
-
+.contact {
+  background: var(--clr-primary-5);
+}
+.contact-title {
+  color: var(--clr-white);
+}
+.contact-title p {
+  color: var(--clr-primary-8);
+}
 /*
 =============== 
 Gallery
