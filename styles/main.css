@@ -308,6 +308,12 @@ Services
   margin-bottom: 1.5rem;
 }
 
+.service-text {
+  max-width: 20rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*
 =============== 
 Featured Tours
