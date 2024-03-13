@@ -472,6 +472,10 @@ Contact
   cursor: pointer;
   transform: var(--transition);
 }
+.btn-submit:hover {
+  background: var(--clr-primary-1);
+  color: var(--clr-primary-5);
+}
 
 /*
 =============== 
