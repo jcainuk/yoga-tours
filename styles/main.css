@@ -361,6 +361,11 @@ Featured Tours
   margin-bottom: 2rem;
 }
 
+.tour-card:hover {
+  box-shadow: var(--dark-shadow);
+  transform: scale(1.02);
+}
+
 /*
 =============== 
 Contact
