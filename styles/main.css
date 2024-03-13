@@ -390,6 +390,13 @@ Featured Tours
   padding: 1.25rem 1.5rem;
 }
 
+.tour-footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
 /*
 =============== 
 Contact
