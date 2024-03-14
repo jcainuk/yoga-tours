@@ -190,6 +190,7 @@ Navbar
 
 .nav-title h1 {
   text-transform: uppercase;
+  font-size: 2rem;
 }
 
 .nav-title span {
