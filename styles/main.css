@@ -192,6 +192,10 @@ Navbar
   z-index: 2;
 }
 
+.nav-icons {
+  display: none;
+}
+
 .nav-title {
   text-align: left;
   margin-bottom: 4rem;
