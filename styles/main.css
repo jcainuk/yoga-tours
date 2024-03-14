@@ -569,3 +569,7 @@ Footer
   letter-spacing: var(--spacing);
   transition: var(--transition);
 }
+
+.footer-link:hover {
+  color: var(--clr-primary-5);
+}
