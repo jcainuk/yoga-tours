@@ -182,6 +182,20 @@ p {
 Navbar
 ===============
 */
+
+.nav-title {
+  text-align: left;
+  margin-bottom: 4rem;
+}
+
+.nav-title h1 {
+  text-transform: uppercase;
+}
+
+.nav-title span {
+  color: var(--clr-primary-5);
+}
+
 /*
 =============== 
 Hero
